@@ -9,8 +9,9 @@ In this application RNWF02 will host a TCP Client in Wi-Fi STA Mode. The user wo
 ## Hardware Requirements
 
 - Host MCU [AVR128DB48 CURIOSITY NANO](https://www.microchip.com/en-us/product/AVR128DB48) with Curiosity Nano Base for Click Boards
-
-  ![AVR128DB48 CURIOSITY NANO](../../assets/avr128db48_cnano_board.png)
+  
+<p align="center"><src="../../assets/avr128db48_cnano_board.png">
+      </p>
 
 - Wi-Fi module: RNWF02PC Add-on Board
 
@@ -35,8 +36,10 @@ To build the application, refer to the following table and open the project usin
 ## Running the Application
 
 1. Mount AVR128DB48 Curiosity Nano and RNWF02 Add-on Boards over Curiosity Nano base for click boards at respective headers as shown below.
-![setup_hardware_for_demo](../../assets/hw_setup.png)
-
+  
+<p align="center"><src="../../assets/hw_setup.png">
+      </p>
+  
 2. Connect the debugger USB port on the AVR128DB48 Curiosity Nano board to computer using a micro USB cable
 
 3. Open the project and launch MCC with Melody Content Manager Tool
