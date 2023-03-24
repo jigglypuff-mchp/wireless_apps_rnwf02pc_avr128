@@ -61,4 +61,10 @@ To build the application, refer to the following table and open the project usin
 
 ![open_tcp_client_console](../../assets/tcp_client.png)
 
+<p align="center"><img width="300" src="../../assets/tcp_client.png">
+      </p>
+
 ![tcp_server_console](../../assets/tcp_server_connection_window.png)
+
+<p align="center"><img width="300" src="../../assets/tcp_server_connection_window.png">
+      </p>
