@@ -59,12 +59,9 @@ To build the application, refer to the following table and open the project usin
 
 9. As the board boots up, it will connect to Home-AP and print the IP address obtained. The board will establish a connection with configured TCP Server and print a success message. Once the TCP client-server connection is successful, the application will continue listening on the socket for incoming messages and then write them back to the server.
 
-![open_tcp_client_console](../../assets/tcp_client.png)
 
-<p align="center"><img width="650" src="../../assets/tcp_client.png">
+<p align="center"><img width="700" src="../../assets/tcp_client.png">
       </p>
 
-![tcp_server_console](../../assets/tcp_server_connection_window.png)
-
-<p align="center"><img width="650" src="../../assets/tcp_server_connection_window.png">
+<p align="center"><img width="700" src="../../assets/tcp_server_connection_window.png">
       </p>
